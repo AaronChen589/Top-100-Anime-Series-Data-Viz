@@ -27,13 +27,7 @@ and wants you to do the following with it...
   - Interactive Filters: Include interactive filters or dropdown menus to allow me to filter the visualizations based on specific criteria such as genre, MPAA rating, or release year. This can enhance the interactivity and usability of the   
      dashboard.
 
-
-
-
-
-
 # Preview 
-
 
 ## Webscraping the IMDB page into the following features
 ![image](https://github.com/AaronChen589/Top-100-AnimeList-Data-Viz/assets/80292924/6d6bbf9c-bad9-468e-80d6-8ceba64edca7)
@@ -41,21 +35,8 @@ and wants you to do the following with it...
 ## Data Wrangling through Python
 ![image](https://github.com/AaronChen589/Top-100-AnimeList-Data-Viz/assets/80292924/df6de13a-9fae-444c-813b-0d90e7a1ab83)
 
-
-## Preprocessing example through Excel: Found outliers for some listings that need to be manually edibted to correct time
+## Preprocessing example through Excel: Found outliers for some time durations that need to be manually corrected
 ![image](https://github.com/AaronChen589/Top-100-AnimeList-Data-Viz/assets/80292924/367e75bb-cd38-42b0-9a18-161fb7b74a1b)
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Author:Aaron Chen
 https://www.linkedin.com/in/aaronchenstony/
