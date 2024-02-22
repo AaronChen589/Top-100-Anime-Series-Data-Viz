@@ -28,6 +28,35 @@ and wants you to do the following with it...
      dashboard.
 
 
+
+
+
+
+# Preview 
+
+
+## Webscraping the IMDB page into the following features
+![image](https://github.com/AaronChen589/Top-100-AnimeList-Data-Viz/assets/80292924/6d6bbf9c-bad9-468e-80d6-8ceba64edca7)
+
+## Data Wrangling through Python
+![image](https://github.com/AaronChen589/Top-100-AnimeList-Data-Viz/assets/80292924/df6de13a-9fae-444c-813b-0d90e7a1ab83)
+
+
+## Preprocessing example through Excel: Found outliers for some listings that need to be manually edibted to correct time
+![image](https://github.com/AaronChen589/Top-100-AnimeList-Data-Viz/assets/80292924/367e75bb-cd38-42b0-9a18-161fb7b74a1b)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Author:Aaron Chen
 https://www.linkedin.com/in/aaronchenstony/
 https://public.tableau.com/app/profile/aaron.chen3368/vizzes 
