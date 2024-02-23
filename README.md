@@ -43,6 +43,8 @@ and wants you to do the following with it...
 ## Preprocessing example through Excel: Found outliers for some time durations that need to be manually corrected
 ![image](https://github.com/AaronChen589/Top-100-AnimeList-Data-Viz/assets/80292924/367e75bb-cd38-42b0-9a18-161fb7b74a1b)
 
+These edits are included in the scraped_top_100_anime_final.csv file
+
 ### Author: Aaron Chen
 https://www.linkedin.com/in/aaronchenstony/
 https://public.tableau.com/app/profile/aaron.chen3368/vizzes 
