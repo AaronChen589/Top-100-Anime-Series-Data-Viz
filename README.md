@@ -10,7 +10,7 @@ and wants you to do the following with it...
 * The dashboard should include the following features below:
   - Top Rated Anime: A bar chart or a table showing the top-rated anime based on their IMDb ratings. This can give an overview of the highest-rated anime in the list.
 
-  -  Distribution of Ratings: A histogram or a box plot showing the distribution of ratings across all anime. This can help me understand the overall rating distribution of my favorite anime.
+  - Distribution of Ratings: A histogram or a box plot showing the distribution of ratings across all anime. This can help me understand the overall rating distribution of my favorite anime.
 
   - Aired Duration vs. Average Runtime: A scatter plot showing the relationship between the duration an anime aired and its average runtime. This can help me see if there's any correlation between the duration an anime aired and its runtime.
 
@@ -24,9 +24,7 @@ and wants you to do the following with it...
 
   - Comparative Analysis: Side-by-side bar charts comparing the ratings, aired duration, average runtime, etc., of different anime. This can help me compare the characteristics of different anime at a glance.
 
-  - Interactive Filters: Include interactive filters or dropdown menus to allow me to filter the visualizations based on specific criteria such as genre, MPAA rating, or release year. This can enhance the interactivity and usability of the   
-     dashboard.
-
+  - Interactive Filters
 # Preview 
 
 ## Webscraping the IMDB page using the following code below 
